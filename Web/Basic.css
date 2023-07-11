@@ -1,0 +1,12 @@
+abbr {
+    display: none;
+}
+p:hover abbr {
+    display: inline;
+}
+address {
+    display: none;
+}
+.add:click address {
+    display: block;
+}
